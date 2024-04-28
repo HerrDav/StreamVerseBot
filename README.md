@@ -38,11 +38,10 @@ ulong IdServidor = 0000000000000000000; // Substitua com o ID do seu servidor
 Após configurar o bot e adicionar ao seu servidor, você pode usar os seguintes comandos Slash:
 
 **/filme nome_do_filme**: Busca informações sobre o filme especificado.
+
 **/serie nome_da_serie temporada número_do_episódio**: Busca informações detalhadas sobre um episódio específico.
+
 **/serie nome_da_serie temporada**: Lista todos os episódios de uma temporada específica.
-
-
-Entendi! Vou ajustar a seção "Contribuições e Continuação do Projeto" para refletir que o projeto está atualmente parado e pode ser retomado por quem estiver interessado. Aqui está a versão atualizada:
 
 
 # 4. Contribuições e Continuação do Projeto
