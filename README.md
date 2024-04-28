@@ -46,4 +46,4 @@ Após configurar o bot e adicionar ao seu servidor, você pode usar os seguintes
 
 # 4. Contribuições e Continuação do Projeto
 
-Este projeto foi desenvolvido como uma ferramenta de aprendizado para criar bots no Discord e está atualmente parado. No entanto, está aberto a contribuições e pode ser continuado por qualquer pessoa interessada. Para continuar o desenvolvimento a partir de onde foi parado, você pode clonar o repositório, instalar as dependências necessárias e começar a adicionar novas funcionalidades ou melhorar as existentes. Instruções detalhadas para clonar e configurar o projeto podem ser encontradas abaixo:
+Este projeto foi desenvolvido como uma ferramenta de aprendizado para criar bots no Discord e está atualmente parado. No entanto, está aberto a contribuições e pode ser continuado por qualquer pessoa interessada.
